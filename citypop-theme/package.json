@@ -2,10 +2,19 @@
   "name": "citypop-theme",
   "displayName": "CityPop Theme",
   "description": "A dark theme inspired by the blue and pink lofi aesthetic and with yellow accents.",
+  "publisher": "danicaj3w",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danicaj3w/citypop-theme.git"
+  },
+  "keywords": [
+    "citypop",
+    "lofi"
+  ],
   "categories": [
     "Themes"
   ],
