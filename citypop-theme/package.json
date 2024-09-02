@@ -1,0 +1,22 @@
+{
+  "name": "citypop-theme",
+  "displayName": "CityPop Theme",
+  "description": "A dark theme that makes you feel cute while coding.",
+  "publisher": "danicaj3w",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Citypop Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Citypop Theme-color-theme.json"
+      }
+    ]
+  }
+}
