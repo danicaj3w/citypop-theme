@@ -13,7 +13,8 @@
   },
   "keywords": [
     "citypop",
-    "lofi"
+    "lofi",
+    "dark theme"
   ],
   "categories": [
     "Themes"
@@ -21,9 +22,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "CityPop Theme",
+        "label": "CityPop",
         "uiTheme": "vs-dark",
         "path": "./themes/CityPop Theme-color-theme.json"
+      },
+      {
+        "label": "CityPop - Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CityPop Theme-color-theme-night.json"
       }
     ]
   }
