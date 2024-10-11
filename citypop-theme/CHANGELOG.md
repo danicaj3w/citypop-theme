@@ -1,6 +1,9 @@
 ## Changelog
 
-### v1.1.0
+### v1.0.2
+- Added Day and Dusk Version
+
+### v1.0.1
 - Added Night version
 
 ### v1.0.0
