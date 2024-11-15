@@ -4,26 +4,27 @@ This theme extension aims to capture the common color schemes of the citypop or 
 ## Previews
 <details>
     <summary>Default</summary>
-    <img src="" alt="Night Python">
+    <img src="./images/citypop-day.png" alt="Default">
 </details>
 
 <details>
     <summary>Day</summary>
-
+    <img src="./images/citypop-day.png" alt="Day">
 </details>
 
 <details>
     <summary>Dusk</summary>
+    <img src="./images/citypop-dusk.png" alt="Dusk">
 </details>
 
 <details>
     <summary>Night</summary>
-
+    <img src="./images/citypop-night.png" alt="Night">
 </details>
 
 <details>
     <summary>Midnight</summary>
-
+    <img src="./images/citypop-midnight.png" alt="Midnight">
 </details>
 
 If you want to see some more themes I've made, you can see them all here!
