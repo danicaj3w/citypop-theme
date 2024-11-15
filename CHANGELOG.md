@@ -1,5 +1,8 @@
 ## Changelog
 
+### v1.0.3
+- Added Midnight Version
+
 ### v1.0.2
 - Added Day and Dusk Version
 
