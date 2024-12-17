@@ -3,7 +3,7 @@
   "displayName": "CityPop Theme",
   "description": "A dark theme to listen to citypop music with.",
   "publisher": "danicaj3w",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -24,14 +24,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "CityPop - Default",
+        "label": "CityPop",
         "uiTheme": "vs-dark",
         "path": "./themes/CityPop Theme-color-theme.json"
+      },
+      {
+        "label": "CityPop - Dawn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CityPop Theme-color-theme-dawn.json"
       },
       {
         "label": "CityPop - Day",
         "uiTheme": "vs-dark",
         "path": "./themes/CityPop Theme-color-theme-day.json"
+      },
+      {
+        "label": "CityPop - Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CityPop Theme-color-theme-sunset.json"
       },
       {
         "label": "CityPop - Dusk",
