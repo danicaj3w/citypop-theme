@@ -3,10 +3,11 @@
   "displayName": "CityPop Theme",
   "description": "A dark theme to listen to citypop music with.",
   "publisher": "danicaj3w",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.92.0"
   },
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/danicaj3w/citypop-theme.git"

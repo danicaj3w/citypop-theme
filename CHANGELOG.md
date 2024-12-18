@@ -1,8 +1,11 @@
 ## Changelog
 
+### V1.0.6
+- Added extension icon
+- Minor Night Theme adjustments
+
 ### v1.0.5
 - Added Dawn Version
-- Added Sunset Version
 - Fixed some screenshots in README
 
 ### v1.0.4
