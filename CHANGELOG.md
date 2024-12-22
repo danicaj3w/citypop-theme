@@ -1,5 +1,8 @@
 ## Changelog
 
+### V1.0.7
+- Added Witching Hour Version
+
 ### V1.0.6
 - Added extension icon
 - Minor Night Theme adjustments

@@ -3,7 +3,7 @@
   "displayName": "CityPop Theme",
   "description": "A dark theme to listen to citypop music with.",
   "publisher": "danicaj3w",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -58,6 +58,11 @@
         "label": "CityPop - Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/CityPop Theme-color-theme-midnight.json"
+      },
+      {
+        "label": "CityPop - Witching Hour",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CityPop Theme-color-theme-witching-hour.json"
       }
     ]
   }
