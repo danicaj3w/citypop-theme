@@ -1,9 +1,9 @@
 {
   "name": "citypop-theme",
   "displayName": "CityPop Theme",
-  "description": "A dark theme to listen to citypop music with.",
+  "description": "A theme with fun colors.",
   "publisher": "danicaj3w",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.92.0"
   },
