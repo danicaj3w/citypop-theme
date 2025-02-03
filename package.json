@@ -3,7 +3,7 @@
   "displayName": "CityPop Theme",
   "description": "A theme with fun colors.",
   "publisher": "danicaj3w",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -43,6 +43,11 @@
         "label": "CityPop - Sunset",
         "uiTheme": "vs-dark",
         "path": "./themes/CityPop Theme-color-theme-sunset.json"
+      },
+      {
+        "label": "CityPop - Twilight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CityPop Theme-color-theme-twilight.json"
       },
       {
         "label": "CityPop - Dusk",

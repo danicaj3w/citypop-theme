@@ -1,8 +1,12 @@
 ## Changelog
+### V1.2.0
+- Added Twilight version
+- Adjusted Day version to be easier on the eyes
+- Minor Dusk color changes
 
 ### V1.1.0
 - Adjusted Default version 
-- Adjusted Witching Hour theme colors
+- Adjusted Witching Hour theme contrast
 - Adjusted Sunset theme style and syntax colors
 
 ### V1.0.7

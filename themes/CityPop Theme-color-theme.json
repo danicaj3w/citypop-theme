@@ -24,6 +24,8 @@
 		"button.secondaryBackground": "#242f57",
 		"button.secondaryForeground": "#778de0",
 		"button.secondaryHoverBackground": "#0f1737",
+		"charts.blue": "#7198f9",
+		"charts.purple": "#a57ce3",
 		"chat.editedFileForeground": "#e2c08d",
 		"chat.slashCommandBackground": "#34414b",
 		"chat.slashCommandForeground": "#40a6ff",
@@ -104,6 +106,7 @@
 		"editorWidget.foreground": "#738cdd",
 		"editorWidget.resizeBorder": "#0b0c19",
 		"errorForeground": "#e9588d",
+		"extensionIcon.starForeground": "#d88ea9",
 		"focusBorder": "#4d5cba",
 		"foreground": "#738cdd",
 		"gitDecoration.addedResourceForeground": "#e78ba8",
@@ -276,12 +279,10 @@
 		//"chart.axis": "#bfbfbf66",
 		//"chart.guide": "#bfbfbf33",
 		//"chart.line": "#236b8e",
-		//"charts.blue": "#3794ff",
 		//"charts.foreground": "#738cdd",
 		//"charts.green": "#89d185",
 		//"charts.lines": "#738cdd80",
 		//"charts.orange": "#506ea870",
-		//"charts.purple": "#b180d7",
 		//"charts.red": "#f58cb2",
 		//"charts.yellow": "#dbb06b",
 		//"chat.avatarBackground": "#1f1f1f",
@@ -456,7 +457,6 @@
 		//"extensionButton.separator": "#19296566",
 		//"extensionIcon.preReleaseForeground": "#1d9271",
 		//"extensionIcon.sponsorForeground": "#d758b3",
-		//"extensionIcon.starForeground": "#ff8e00",
 		//"extensionIcon.verifiedForeground": "#d88ea9",
 		//"git.blame.editorDecorationForeground": "#999999",
 		//"gitDecoration.conflictingResourceForeground": "#e4676b",
@@ -601,8 +601,8 @@
 		//"scmGraph.historyItemHoverDefaultLabelForeground": "#738cdd",
 		//"scmGraph.historyItemHoverDeletionsForeground": "#c74e39",
 		//"scmGraph.historyItemHoverLabelForeground": "#192965",
-		//"scmGraph.historyItemRefColor": "#3794ff",
-		//"scmGraph.historyItemRemoteRefColor": "#b180d7",
+		//"scmGraph.historyItemRefColor": "#7198f9",
+		//"scmGraph.historyItemRemoteRefColor": "#a57ce3",
 		//"scrollbar.shadow": "#000000",
 		//"search.resultsInfoForeground": "#738cdda6",
 		//"searchEditor.findMatchBackground": "#2b347293",
@@ -1598,15 +1598,6 @@
 		},
 		{
 			"scope": [
-				"variable.other.constant.property.js",
-				"storage.modifier.async.js"
-			],
-			"settings": {
-				"foreground": "#70B0F0"
-			}
-		},
-		{
-			"scope": [
 				"support.type.property-name.json.comments",
 				"support.type.property-name.json",
 				"entity.other.attribute-name.tsx",
@@ -1638,6 +1629,9 @@
 				"variable.other.property",
 				"variable.parameter.cpp",
 				"variable.other.object.js",
+				"variable.other.constant.property.js",
+				"variable.other.constant.js",
+				"storage.modifier.async.js",
 				"variable.other.readwrite",
 				"variable.parameter",
 				"punctuation.definition.tag",
