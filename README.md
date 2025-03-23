@@ -1,10 +1,15 @@
 ## About
-This collection of themes consists of common color schemes from citypop and lofi imagery. Currently, there are 9 variations of dark themes with varying styles and palettes.
+This collection of themes consists of common color schemes from citypop and lofi imagery. Currently, there are 10 variations of dark themes with varying styles and palettes.
 
 ## Previews
 <details>
     <summary>Default</summary>
     <img src="./images/citypop-default.png" alt="Default">
+</details>
+
+<details>
+    <summary>Blue Hour</summary>
+    <img src="./images/citypop-blue-hour.png" alt="Default">
 </details>
 
 <details>
@@ -16,11 +21,6 @@ This collection of themes consists of common color schemes from citypop and lofi
     <summary>Day</summary>
     <img src="./images/citypop-day.png" alt="Day">
 </details>
-
-<!-- <details>
-    <summary>Noon</summary>
-    <img src="./images/citypop-day.png" alt="Day">
-</details> -->
 
 <details>
     <summary>Sunset</summary>
@@ -70,13 +70,14 @@ If you want to try programming fonts, [NerdFonts](https://www.nerdfonts.com/font
 
 ## Inspirations
 1. Default: [Gruvbox](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox) and [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
-2. Dawn: [Blueberry Dark](https://marketplace.visualstudio.com/items?itemName=peymanslh.blueberry-dark-theme)
-3. Day: [Pink Cat Boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
-4. Dusk: [Gruvbox ish](https://marketplace.visualstudio.com/items?itemName=GracefulPotato.gruvbox-ish)
-5. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
-6. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
-7. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
-8. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+2. Blue-Hour: [Blueberry Dark](https://marketplace.visualstudio.com/items?itemName=peymanslh.blueberry-dark-theme)
+3. Dawn: [City Fog](https://marketplace.visualstudio.com/items?itemName=metalloriff.city-fog)
+4. Day: [Pink Cat Boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
+5. Dusk: [Gruvbox ish](https://marketplace.visualstudio.com/items?itemName=GracefulPotato.gruvbox-ish)
+6. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+7. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
+8. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
+9. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
 <!-- ### Italics
 Some themes contain italics to differentiate comments from the rest of the code. To change this, you can go to your settings.json and add:

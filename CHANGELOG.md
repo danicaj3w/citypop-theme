@@ -1,4 +1,11 @@
 ## Changelog
+### V1.3.0
+- Added new Dawn version
+- Switched old Dawn version to Blue Hour
+- Added C-Sharp syntax colors
+- Minor changes to Default sidebar
+- Minor changes to Dusk highlighting
+
 ### V1.2.0
 - Added Twilight version
 - Adjusted Day version to be easier on the eyes
@@ -16,21 +23,21 @@
 - Added extension icon
 - Minor Night theme adjustments
 
-### v1.0.5
+### V1.0.5
 - Added Dawn version
 - Fixed some screenshots in README
 
-### v1.0.4
+### V1.0.4
 - Added Sunset version
 
-### v1.0.3
+### V1.0.3
 - Added Midnight version
 
-### v1.0.2
+### V1.0.2
 - Added Day and Dusk version
 
-### v1.0.1
+### V1.0.1
 - Added Night version
 
-### v1.0.0
+### V1.0.0
 - Initial Release
