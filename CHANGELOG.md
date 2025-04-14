@@ -1,4 +1,9 @@
 ## Changelog
+### V1.4.0
+- Added Noon version
+- Added more token colors
+- Minor changes to Default and Sunset syntax colors
+
 ### V1.3.0
 - Added new Dawn version
 - Switched old Dawn version to Blue Hour

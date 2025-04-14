@@ -1516,10 +1516,12 @@
 				"entity.name.function.preprocessor.cpp",
 				"constant.language",
 				"keyword.operator.new.cpp",
+				"keyword.operator.new",
 				"keyword.other.using",
 				"keyword.operator.expression",
 				"punctuation.definition.list.begin.markdown",
-				"markup.bold.markdown",
+				"markup.bold",
+				"markup.italic",
 				"heading.1.markdown"
 			],
 			"settings": {
@@ -1572,8 +1574,6 @@
 				"storage.type.built-in.primitive.cpp",
 				"punctuation.separator.pointer-access.cpp",
 				"entity.name.function.preprocessor.c",
-				"variable.other.property.tsx",
-				"variable.other.constant.property.tsx",
 				"keyword.operator.logical.python",
 				"constant.character",
 				"keyword.cs",
@@ -1584,6 +1584,8 @@
 				"variable.argument.css",
 				"storage.modifier",
 				"keyword.type.void.cs",
+				"keyword",
+				"keyword.other.directive.using",
 				"heading.3.markdown"
 			],
 			"settings": {
@@ -1618,6 +1620,7 @@
 				"variable.language.special.self.python",
 				"support.variable.magic.python",
 				"variable",
+				"entity.other.inherited-class",
 				"heading.5.markdown"
 			],
 			"settings": {
@@ -1637,13 +1640,10 @@
 		{
 			"scope": [
 				"variable.other.property.cpp",
-				"keyword.operator.comparison.python",
-				"keyword.operator.assignment.python",
-				"keyword.operator.arithmetic.python",
+				"keyword.operator.comparison",
+				"keyword.operator.assignment",
+				"keyword.operator.arithmetic",
 				"keyword.operator.c.cpp",
-				"keyword.operator.assignment.cpp",
-				"keyword.operator.arithmetic.cpp",
-				"keyword.operator.assignment.compound.cpp",
 				"keyword.other.unit.hexadecimal.c",
 				"constant.numeric.css",
 				"punctuation.separator.scope-resolution.function.call.cpp",
@@ -1653,7 +1653,6 @@
 				"punctuation.terminator.statement.cpp",
 				"variable.parameter.cpp",
 				"variable.parameter",
-				"variable.other.readwrite.tsx",
 				"support.variable.tsx",
 				"keyword.operator",
 				"entity.name.namespace",
@@ -1673,6 +1672,7 @@
 			"scope": [
 				"variable.other.object.js",
 				"variable.other.constant.js",
+				"variable.other.constant",
 				"variable.other.object.cs",
 				"variable.other.object.property.cs",
 				"entity.name.variable",

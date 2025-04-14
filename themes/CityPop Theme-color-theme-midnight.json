@@ -456,6 +456,12 @@
 		//"extensionIcon.preReleaseForeground": "#1d9271",
 		//"extensionIcon.sponsorForeground": "#d758b3",
 		//"extensionIcon.verifiedForeground": "#eabc80",
+		//"gauge.background": "#007acc",
+		//"gauge.errorBackground": "#be1100",
+		//"gauge.errorForeground": "#be11004d",
+		//"gauge.foreground": "#007acc4d",
+		//"gauge.warningBackground": "#b89500",
+		//"gauge.warningForeground": "#b895004d",
 		//"git.blame.editorDecorationForeground": "#999999",
 		//"gitDecoration.conflictingResourceForeground": "#e4676b",
 		//"gitDecoration.submoduleResourceForeground": "#8db9e2",
@@ -487,6 +493,7 @@
 		//"inlineEdit.originalBorder": "#231f41",
 		//"inlineEdit.originalChangedLineBackground": "#00000000",
 		//"inlineEdit.originalChangedTextBackground": "#ff000033",
+		//"inlineEdit.tabWillAcceptBorder": "#2c2751",
 		//"inlineEdit.wordReplacementView.background": "#232a491a",
 		//"inputOption.activeForeground": "#ffffff",
 		//"inputOption.hoverBackground": "#5a5d5e80",
@@ -533,6 +540,7 @@
 		//"mergeEditor.conflict.unhandledFocused.border": "#ffa600",
 		//"mergeEditor.conflict.unhandledUnfocused.border": "#ffa6007a",
 		//"mergeEditor.conflictingLines.background": "#ffea0047",
+		//"minimap.chatEditHighlight": "#12152f99",
 		//"minimap.foregroundOpacity": "#000000",
 		//"minimap.infoHighlight": "#3794ff",
 		//"minimap.selectionOccurrenceHighlight": "#676767",
@@ -573,6 +581,8 @@
 		//"panelSectionHeader.background": "#80808033",
 		//"panelStickyScroll.background": "#12152f",
 		//"panelStickyScroll.shadow": "#000000",
+		//"panelTitleBadge.background": "#cbbe8d",
+		//"panelTitleBadge.foreground": "#483ca5",
 		//"peekView.border": "#3794ff",
 		//"peekViewEditorGutter.background": "#1f1f1f",
 		//"peekViewEditorStickyScroll.background": "#1f1f1f",
@@ -719,6 +729,8 @@
 		//"terminalOverviewRuler.cursorForeground": "#a0a0a0cc",
 		//"terminalOverviewRuler.findMatchForeground": "#d186167e",
 		//"terminalStickyScrollHover.background": "#2a2d2e",
+		//"terminalSymbolIcon.aliasForeground": "#b180d7",
+		//"terminalSymbolIcon.flagForeground": "#ee9d28",
 		//"testing.coverCountBadgeBackground": "#cbbe8d",
 		//"testing.coverCountBadgeForeground": "#483ca5",
 		//"testing.coveredBackground": "#9ccc2c33",
@@ -804,6 +816,7 @@
 		//"editorUnnecessaryCode.border": null,
 		//"editorWarning.background": null,
 		//"editorWarning.border": null,
+		//"gauge.border": null,
 		//"inputValidation.errorForeground": null,
 		//"inputValidation.infoForeground": null,
 		//"inputValidation.warningForeground": null,
@@ -1504,6 +1517,7 @@
 				"keyword.other.using",
 				"keyword.other.directive.using",
 				"keyword.operator.new.cpp",
+				"keyword.operator.new",
 				"variable.language",
 				"variable.language.java"
 			],
@@ -1513,12 +1527,10 @@
 		},
 		{
 			"scope": [
-				"keyword.operator.comparison.python",
-				"keyword.operator.assignment.python",
-				"keyword.operator.arithmetic.python",
+				"keyword.operator.comparison",
+				"keyword.operator.assignment",
+				"keyword.operator.arithmetic",
 				"keyword.operator.c.cpp",
-				"keyword.operator.assignment.cpp",
-				"keyword.operator.arithmetic.cpp",
 				"variable.other.property.cpp",
 				"keyword.operator.assignment.compound.cpp",
 				"keyword.other.unit.hexadecimal.c",
@@ -1529,7 +1541,6 @@
 				"punctuation.terminator.statement.cpp",
 				"punctuation.separator.key-value.js",
 				"storage.type.built-in.primitive.cpp",
-				"variable.other.readwrite.tsx",
 				"support.variable.tsx",
 				"keyword.operator",
 				"entity.name.namespace",
@@ -1565,8 +1576,6 @@
 				"variable.other.global.cpp",
 				"punctuation.separator.pointer-access.cpp",
 				"entity.name.function.preprocessor.c",
-				"variable.other.property.tsx",
-				"variable.other.constant.property.tsx",
 				"keyword.operator.logical.python",
 				"constant.character",
 				"keyword.cs",
@@ -1599,7 +1608,6 @@
 				"keyword.control.directive.define.c",
 				"variable.other.global.c",
 				"keyword.operator.sizeof.c",
-				"variable.other.constant.object.tsx",
 				"variable.scss",
 				"entity.name.tag.css",
 				"entity.name.tag",
@@ -1609,7 +1617,8 @@
 				"constant.character.escape.python",
 				"variable.other.constant.property",
 				"markup.bold.markdown",
-				"punctuation.definition.list.begin.markdown"
+				"punctuation.definition.list.begin.markdown",
+				"entity.other.inherited-class"
 			],
 			"settings": {
 				"foreground": "#7579FF"
@@ -1627,7 +1636,8 @@
 				"variable.other.readwrite.alias.tsx",
 				"punctuation.separator.key-value.tsx",
 				"variable.language.this.java",
-				"meta.object-literal.key"
+				"meta.object-literal.key",
+				"keyword"
 			],
 			"settings": {
 				"foreground": "#8E90D8"

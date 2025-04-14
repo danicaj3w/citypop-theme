@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
-	"name": "CityPop - Night",
+	"name": "Citypop - Night",
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBackground": "#241e41",
@@ -1501,12 +1501,10 @@
 		},
 		{
 			"scope": [
-				"keyword.operator.comparison.python",
-				"keyword.operator.assignment.python",
-				"keyword.operator.arithmetic.python",
+				"keyword.operator.comparison",
+				"keyword.operator.assignment",
+				"keyword.operator.arithmetic",
 				"keyword.operator.c.cpp",
-				"keyword.operator.assignment.cpp",
-				"keyword.operator.arithmetic.cpp",
 				"variable.other.property.cpp",
 				"keyword.operator.assignment.compound.cpp",
 				"keyword.other.unit.hexadecimal.c",
@@ -1518,7 +1516,6 @@
 				"punctuation.terminator.statement.cpp",
 				"variable.parameter.cpp",
 				"variable.parameter",
-				"variable.other.readwrite.tsx",
 				"support.variable.tsx",
 				"keyword.operator",
 				"entity.name.namespace",
@@ -1561,7 +1558,6 @@
 				"keyword.other.unit.px.css",
 				"keyword.other.unit.s.css",
 				"keyword.other.unit.fr.css",
-				"variable.other.constant.property.tsx",
 				"keyword.operator.logical.python",
 				"constant.character",
 				"keyword.other.using.directive.cpp",
@@ -1578,7 +1574,8 @@
 				"keyword.type.long.cs",
 				"keyword.type.double.cs",
 				"storage.modifier",
-				"keyword.other.directive.using"
+				"keyword.other.directive.using",
+				"keyword"
 			],
 			"settings": {
 				"foreground": "#DE8CFA"
@@ -1591,7 +1588,6 @@
 				"entity.other.attribute-name.pseudo-class.css",
 				"constant.language.json",
 				"keyword.control.directive.define.c",
-				"variable.other.constant.object.tsx",
 				"variable.scss",
 				"entity.name.tag.css",
 				"entity.name.tag",
@@ -1600,7 +1596,10 @@
 				"punctuation.definition.string.end.python",
 				"storage.type.primitive.array.java",
 				"keyword.operator.expression",
-				"variable.language"
+				"variable.language",
+				"entity.other.inherited-class",
+				"markup.bold",
+				"markup.italic"
 			],
 			"settings": {
 				"foreground": "#FCC196"

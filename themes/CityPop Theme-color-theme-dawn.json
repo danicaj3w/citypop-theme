@@ -1516,10 +1516,13 @@
 				"entity.name.function.preprocessor.cpp",
 				"constant.language",
 				"keyword.operator.new.cpp",
+				"keyword.operator.new",
 				"keyword.other.using",
 				"punctuation.definition.list.begin.markdown",
-				"markup.bold.markdown",
-				"keyword.other.important.css"
+				"markup.bold",
+				"markup.italic",
+				"keyword.other.important.css",
+				"entity.other.inherited-class"
 			],
 			"settings": {
 				"foreground": "#8C97EA"
@@ -1531,7 +1534,6 @@
 				"entity.other.attribute-name.class.css",
 				"entity.other.attribute-name.pseudo-class.css",
 				"constant.language.json",
-				"variable.other.constant.object.tsx",
 				"variable.scss",
 				"entity.name.tag.css",
 				"entity.name.tag",
@@ -1560,8 +1562,6 @@
 				"storage.type.built-in.primitive.cpp",
 				"punctuation.separator.pointer-access.cpp",
 				"entity.name.function.preprocessor.c",
-				"variable.other.property.tsx",
-				"variable.other.constant.property.tsx",
 				"keyword.operator.logical.python",
 				"constant.character",
 				"keyword.cs",
@@ -1605,7 +1605,9 @@
 				"support.variable.magic.python",
 				"keyword.operator.expression",
 				"storage.modifier",
-				"markup.heading"
+				"markup.heading",
+				"keyword",
+				"keyword.directive.c.using"
 			],
 			"settings": {
 				"foreground": "#D2ADE5"
@@ -1614,13 +1616,10 @@
 		{
 			"scope": [
 				"variable.other.property.cpp",
-				"keyword.operator.comparison.python",
-				"keyword.operator.assignment.python",
-				"keyword.operator.arithmetic.python",
+				"keyword.operator.comparison",
+				"keyword.operator.assignment",
+				"keyword.operator.arithmetic",
 				"keyword.operator.c.cpp",
-				"keyword.operator.assignment.cpp",
-				"keyword.operator.arithmetic.cpp",
-				"keyword.operator.assignment.compound.cpp",
 				"keyword.other.unit.hexadecimal.c",
 				"constant.numeric.css",
 				"punctuation.separator.scope-resolution.function.call.cpp",
@@ -1630,7 +1629,6 @@
 				"punctuation.terminator.statement.cpp",
 				"variable.parameter.cpp",
 				"variable.parameter",
-				"variable.other.readwrite.tsx",
 				"support.variable.tsx",
 				"support.constant.font-name.css",
 				"constant.other.color.rgb-value.hex.css",
@@ -1643,6 +1641,7 @@
 				"variable.other.constant.object.js",
 				"variable.other.object.js",
 				"variable.other.constant.js",
+				"variable.other.constant",
 				"variable",
 				"variable.other.readwrite",
 				"meta.object-literal.key"

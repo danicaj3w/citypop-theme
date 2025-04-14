@@ -73,6 +73,7 @@
 		"editorBracketHighlight.foreground4": "#9371a2",
 		"editorBracketHighlight.foreground5": "#5d60a8",
 		"editorBracketHighlight.foreground6": "#eeba89",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#cf5f7b",
 		"editorBracketMatch.background": "#d2859346",
 		"editorBracketMatch.border": "#d88e96",
 		"editorCursor.foreground": "#d88e96",
@@ -348,7 +349,6 @@
 		//"editorActionList.focusBackground": "#d2859346",
 		//"editorActionList.focusForeground": "#fed2cf",
 		//"editorActionList.foreground": "#e99aa9",
-		//"editorBracketHighlight.unexpectedBracket.foreground": "#ff1212cc",
 		//"editorBracketPairGuide.activeBackground1": "#00000000",
 		//"editorBracketPairGuide.activeBackground2": "#00000000",
 		//"editorBracketPairGuide.activeBackground3": "#00000000",
@@ -1511,6 +1511,7 @@
 				"entity.name.function.preprocessor.cpp",
 				"constant.language",
 				"keyword.operator.new.cpp",
+				"keyword.operator.new",
 				"keyword.other.using",
 				"keyword.other.typedef.c",
 				"keyword.operator.sizeof.c",
@@ -1523,12 +1524,10 @@
 		},
 		{
 			"scope": [
-				"keyword.operator.comparison.python",
-				"keyword.operator.assignment.python",
-				"keyword.operator.arithmetic.python",
+				"keyword.operator.comparison",
+				"keyword.operator.assignment",
+				"keyword.operator.arithmetic",
 				"keyword.operator.c.cpp",
-				"keyword.operator.assignment.cpp",
-				"keyword.operator.arithmetic.cpp",
 				"variable.other.property.cpp",
 				"keyword.operator.assignment.compound.cpp",
 				"keyword.other.unit.hexadecimal.c",
@@ -1540,7 +1539,6 @@
 				"punctuation.terminator.statement.cpp",
 				"variable.parameter.cpp",
 				"variable.parameter",
-				"variable.other.readwrite.tsx",
 				"support.variable.tsx",
 				"keyword.operator",
 				"entity.name.namespace",
@@ -1548,6 +1546,7 @@
 				"variable.other.readwrite",
 				"variable.other.constant.js",
 				"variable.other.object.js",
+				"variable.other.constant",
 				"variable",
 				"entity.name.variable"
 			],
@@ -1572,12 +1571,10 @@
 				"storage.type.built-in.primitive.cpp",
 				"punctuation.separator.pointer-access.cpp",
 				"entity.name.function.preprocessor.c",
-				"variable.other.property.tsx",
 				"keyword.other.unit.percentage.css",
 				"keyword.other.unit.px.css",
 				"keyword.other.unit.s.css",
 				"keyword.other.unit.fr.css",
-				"variable.other.constant.property.tsx",
 				"keyword.operator.logical.python",
 				"constant.character",
 				"keyword.cs",
@@ -1604,7 +1601,6 @@
 				"entity.other.attribute-name.pseudo-class.css",
 				"constant.language.json",
 				"keyword.control.directive.define.c",
-				"variable.other.constant.object.tsx",
 				"variable.scss",
 				"entity.name.tag.css",
 				"entity.name.tag",
@@ -1614,7 +1610,8 @@
 				"constant.character.escape.python",
 				"variable.language.this.cpp",
 				"variable.language.this.java",
-				"markup.heading"
+				"markup.heading",
+				"entity.other.inherited-class"
 			],
 			"settings": {
 				"foreground": "#BFA3DA"
@@ -1646,11 +1643,20 @@
 				"support.variable.magic.python",
 				"variable.other.object.access.cpp",
 				"punctuation.definition.list.begin.markdown",
-				"markup.bold.markdown",
+				"markup.bold",
+				"markup.italic",
 				"keyword.other.important.css"
 			],
 			"settings": {
 				"foreground": "#DED19C"
+			}
+		},
+		{
+			"scope": [
+				"keyword"
+			],
+			"settings": {
+				"foreground": "#F5AAB7"
 			}
 		},
 		{
