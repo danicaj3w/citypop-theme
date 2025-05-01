@@ -1,4 +1,9 @@
 ## Changelog
+### V1.5.0
+- Revamped Witching Hour
+- Adjusted Default version
+- Added more token colors
+
 ### V1.4.0
 - Added Noon version
 - Added more token colors

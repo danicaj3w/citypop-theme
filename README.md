@@ -83,7 +83,7 @@ If you want to try programming fonts, [NerdFonts](https://www.nerdfonts.com/font
 7. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 8. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
 9. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
-10. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+10. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) and [2077 Theme](https://marketplace.visualstudio.com/items/?itemName=Endormi.2077-theme)
 
 <!-- ### Italics
 Some themes contain italics to differentiate comments from the rest of the code. To change this, you can go to your settings.json and add:
