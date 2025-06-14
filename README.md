@@ -1,5 +1,7 @@
 ## About
-This collection of themes consists of common color schemes from citypop and lofi imagery. Currently, there are 11 variations of dark themes with varying styles and palettes.
+When I first started developing a theme for my VSCode, I figured it would be a one-time thing and made my first theme with overly saturated blues and pinks. It didn't look good AT ALL. But before I knew it, I became obsessed with having all kinds of color schemes on my editor, from pastels like Catppuccin's Theme to bold, saturated colors in Shades of Purple. 
+
+This collection takes inspiration from popular themes and combines them with color schemes from citypop and lofi imagery. These colors may not be conventional for long periods of coding, and yes, they may take some time getting used to. The whole point of a theme is to have fun, so enjoy making different colors pop up as you code. Happy developing! ╰(*´︶`*)╯
 
 ## Previews
 <details>
@@ -25,6 +27,11 @@ This collection of themes consists of common color schemes from citypop and lofi
 <details>
     <summary>Noon</summary>
     <img src="./images/citypop-noon.png" alt="Noon">
+</details>
+
+<details>
+    <summary>Golden Hour</summary>
+    <img src="./images/citypop-golden-hour.png" alt="Dawn">
 </details>
 
 <details>
@@ -80,10 +87,11 @@ If you want to try programming fonts, [NerdFonts](https://www.nerdfonts.com/font
 4. Day: [Pink Cat Boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
 5. Dusk: [Gruvbox ish](https://marketplace.visualstudio.com/items?itemName=GracefulPotato.gruvbox-ish)
 6. Noon: [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) and [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
-7. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
-8. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
-9. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
-10. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) and [2077 Theme](https://marketplace.visualstudio.com/items/?itemName=Endormi.2077-theme)
+7. Golden Hour: [PastelWater](https://marketplace.visualstudio.com/items?itemName=AndreaCombette.PastelWater)
+8. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+9. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
+10. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
+11. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) and [1984](https://marketplace.visualstudio.com/items/?itemName=juanmnl.vscode-theme-1984)
 
 <!-- ### Italics
 Some themes contain italics to differentiate comments from the rest of the code. To change this, you can go to your settings.json and add:

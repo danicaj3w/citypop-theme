@@ -1,12 +1,14 @@
 ## Changelog
+### V1.6.0 [LAST UPDATE]
+- Added Golden Hour version
+- Restored old Default version
+
 ### V1.5.0
 - Revamped Witching Hour
-- Adjusted Default version
-- Added more token colors
+- Default version with coolor pinks
 
 ### V1.4.0
 - Added Noon version
-- Added more token colors
 - Minor changes to Default and Sunset syntax colors
 
 ### V1.3.0
