@@ -1,5 +1,5 @@
 ## Changelog
-### V1.6.0 [LAST UPDATE]
+### V1.6.0 - V1.6.1 [LAST UPDATE]
 - Added Golden Hour version
 - Restored old Default version
 

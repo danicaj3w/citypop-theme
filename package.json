@@ -3,7 +3,7 @@
   "displayName": "CityPop Theme",
   "description": "A theme with fun colors.",
   "publisher": "danicaj3w",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "engines": {
     "vscode": "^1.92.0"
   },
