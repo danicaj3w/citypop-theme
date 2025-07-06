@@ -11,7 +11,12 @@ This collection takes inspiration from popular themes and combines them with col
 
 <details>
     <summary>Blue Hour</summary>
-    <img src="./images/citypop-blue-hour.png" alt="Default">
+    <img src="./images/citypop-blue-hour.png" alt="Blue Hour">
+</details>
+
+<details>
+    <summary>Sunrise</summary>
+    <img src="./images/citypop-sunrise.png" alt="Sunrise">
 </details>
 
 <details>
@@ -27,11 +32,6 @@ This collection takes inspiration from popular themes and combines them with col
 <details>
     <summary>Noon</summary>
     <img src="./images/citypop-noon.png" alt="Noon">
-</details>
-
-<details>
-    <summary>Golden Hour</summary>
-    <img src="./images/citypop-golden-hour.png" alt="Dawn">
 </details>
 
 <details>
@@ -81,13 +81,14 @@ If you want to try programming fonts, [NerdFonts](https://www.nerdfonts.com/font
 2. (Website) If you like small compact letters: [Mononoki](https://madmalik.github.io/mononoki/)
 
 ## Inspirations
-1. Default: [Gruvbox](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox) and [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+1. Default: [Gruvbox](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)
 2. Blue-Hour: [Blueberry Dark](https://marketplace.visualstudio.com/items?itemName=peymanslh.blueberry-dark-theme)
-3. Dawn: [City Fog](https://marketplace.visualstudio.com/items?itemName=metalloriff.city-fog)
-4. Day: [Pink Cat Boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
-5. Dusk: [Gruvbox ish](https://marketplace.visualstudio.com/items?itemName=GracefulPotato.gruvbox-ish)
-6. Noon: [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) and [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
-7. Golden Hour: [PastelWater](https://marketplace.visualstudio.com/items?itemName=AndreaCombette.PastelWater)
+3. Sunrise: [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) and [FairyFloss](https://marketplace.visualstudio.com/items?itemName=mintchipleaf.fairyfloss)
+4. Dawn: [City Fog](https://marketplace.visualstudio.com/items?itemName=metalloriff.city-fog)
+5. Day: [Pink Cat Boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
+6. Dusk: [Gruvbox ish](https://marketplace.visualstudio.com/items?itemName=GracefulPotato.gruvbox-ish)
+7. Noon: [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) and [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+<!-- 7. Golden Hour: [PastelWater](https://marketplace.visualstudio.com/items?itemName=AndreaCombette.PastelWater) -->
 8. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 9. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
 10. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)

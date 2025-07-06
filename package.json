@@ -3,7 +3,7 @@
   "displayName": "CityPop Theme",
   "description": "A theme with fun colors.",
   "publisher": "danicaj3w",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -37,6 +37,11 @@
         "path": "./themes/CityPop Theme-color-theme-blue-hour.json"
       },
       {
+        "label": "CityPop - Sunrise",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CityPop Theme-color-theme-sunrise.json"
+      },
+      {
         "label": "CityPop - Dawn",
         "uiTheme": "vs-dark",
         "path": "./themes/CityPop Theme-color-theme-dawn.json"
@@ -50,11 +55,6 @@
         "label": "CityPop - Noon",
         "uiTheme": "vs-dark",
         "path": "./themes/CityPop Theme-color-theme-noon.json"
-      },
-      {
-        "label": "CityPop - Golden Hour",
-        "uiTheme": "vs-dark",
-        "path": "./themes/CityPop Theme-color-theme-golden-hour.json"
       },
       {
         "label": "CityPop - Sunset",
