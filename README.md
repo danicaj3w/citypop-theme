@@ -35,6 +35,11 @@ This collection takes inspiration from popular themes and combines them with col
 </details>
 
 <details>
+    <summary>Golden Hour</summary>
+    <img src="./images/citypop-golden-hour.png" alt="Golden Hour">
+</details>
+
+<details>
     <summary>Sunset</summary>
     <img src="./images/citypop-sunset.png" alt="Sunset">
 </details>
@@ -88,11 +93,11 @@ If you want to try programming fonts, [NerdFonts](https://www.nerdfonts.com/font
 5. Day: [Pink Cat Boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
 6. Dusk: [Gruvbox ish](https://marketplace.visualstudio.com/items?itemName=GracefulPotato.gruvbox-ish)
 7. Noon: [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) and [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
-<!-- 7. Golden Hour: [PastelWater](https://marketplace.visualstudio.com/items?itemName=AndreaCombette.PastelWater) -->
-8. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
-9. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
-10. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
-11. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) and [1984](https://marketplace.visualstudio.com/items/?itemName=juanmnl.vscode-theme-1984)
+8. Golden Hour: [PastelWater](https://marketplace.visualstudio.com/items?itemName=AndreaCombette.PastelWater)
+9. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+10. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
+11. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
+12. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) and [1984](https://marketplace.visualstudio.com/items/?itemName=juanmnl.vscode-theme-1984)
 
 <!-- ### Italics
 Some themes contain italics to differentiate comments from the rest of the code. To change this, you can go to your settings.json and add:

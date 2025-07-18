@@ -1,6 +1,7 @@
 ## Changelog
-### V1.7.0
+### V1.7.0 - V1.7.1
 - Added Sunrise version
+- Added Golden Hour version adjustments
 
 ### V1.6.0 - V1.6.1
 - Added Golden Hour version
