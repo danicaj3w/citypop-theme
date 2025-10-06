@@ -1519,6 +1519,9 @@
 		{
 			"scope": [
 				"storage.type.primitive.java",
+				"storage.type.java",
+				"storage.type.primitive.array.java",
+				"storage.type.object.array.java",
 				"variable.other.enummember",
 				"keyword.other.using",
 				"keyword.operator.expression",
@@ -1527,11 +1530,7 @@
 				"keyword.operator.sizeof.c",
 				"storage.modifier.c",
 				"storage.modifier",
-				"keyword.other.unit.percentage.css",
-				"keyword.other.unit.px.css",
-				"keyword.other.unit.s.css",
-				"keyword.other.unit.fr.css",
-				"keyword.other.unit.em.css",
+				"keyword.other.unit",
 				"invalid",
 				"constant.language.json",
 				"heading.1.markdown",

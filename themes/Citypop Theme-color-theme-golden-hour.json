@@ -1519,6 +1519,9 @@
 		{
 			"scope": [
 				"storage.type.primitive.java",
+				"storage.type.java",
+				"storage.type.primitive.array.java",
+				"storage.type.object.array.java",
 				"entity.name.type.interface",
 				"entity.other.attribute-name.pseudo-element.css",
 				"variable.other.enummember",
@@ -1527,11 +1530,7 @@
 				"entity.name.function.preprocessor.cpp",
 				"keyword.other.typedef.c",
 				"keyword.operator.sizeof.c",
-				"keyword.other.unit.percentage.css",
-				"keyword.other.unit.px.css",
-				"keyword.other.unit.s.css",
-				"keyword.other.unit.fr.css",
-				"keyword.other.unit.em.css",
+				"keyword.other.unit",
 				"keyword.other.directive.using",
 				"punctuation.definition.list.begin.markdown",
 				"markup.heading",
@@ -1583,8 +1582,6 @@
 				"punctuation.separator.key-value.tsx",
 				"markup.bold",
 				"markup.italic",
-				"string.quoted.double.scss",
-				"string.quoted.double.tsx",
 				"entity.other.inherited-class",
 				"meta.function-call.generic.python",
 				"entity.name.tag.css"

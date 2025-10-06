@@ -1558,11 +1558,7 @@
 				"storage.modifier.c",
 				"constant.character.escape.python",
 				"variable.other.enummember",
-				"keyword.other.unit.em.css",
-				"keyword.other.unit.px.css",
-				"keyword.other.unit.percentage.css",
-				"keyword.other.unit.s.css",
-				"keyword.other.unit.fr.css",
+				"keyword.other.unit",
 				"heading.2.markdown"
 			],
 			"settings": {
@@ -1571,6 +1567,10 @@
 		},
 		{
 			"scope": [
+				"storage.type.primitive.java",
+				"storage.type.java",
+				"storage.type.primitive.array.java",
+				"storage.type.object.array.java",
 				"storage.modifier.specifier.functional.post-parameters.const.cpp",
 				"entity.name.namespace.cpp",
 				"entity.name.scope-resolution.function.call.cpp",
@@ -1613,8 +1613,6 @@
 				"support.constant.color",
 				"entity.other.attribute-name.tsx",
 				"variable.other.object.access.cpp",
-				"string.quoted.double.scss",
-				"string.quoted.double.tsx",
 				"variable.other.readwrite.alias.tsx",
 				"punctuation.separator.key-value.tsx",
 				"entity.other.attribute-name",
