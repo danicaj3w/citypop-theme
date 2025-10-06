@@ -96,7 +96,7 @@ If you want to try programming fonts, [NerdFonts](https://www.nerdfonts.com/font
 8. Golden Hour: [PastelWater](https://marketplace.visualstudio.com/items?itemName=AndreaCombette.PastelWater)
 9. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 10. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
-11. Midnight: [Tea House](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
+11. Midnight: [Pastel Pink Theme](https://marketplace.visualstudio.com/items?itemName=skrewbar.pastel-pink-theme) and [Japanese City Pop](https://marketplace.visualstudio.com/items?itemName=wu-chinese.japanese-city-pop)
 12. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) and [1984](https://marketplace.visualstudio.com/items/?itemName=juanmnl.vscode-theme-1984)
 
 <!-- ### Italics
