@@ -94,7 +94,7 @@ If you want to try programming fonts, [NerdFonts](https://www.nerdfonts.com/font
 6. Dusk: [Gruvbox ish](https://marketplace.visualstudio.com/items?itemName=GracefulPotato.gruvbox-ish)
 7. Noon: [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) and [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 8. Golden Hour: [PastelWater](https://marketplace.visualstudio.com/items?itemName=AndreaCombette.PastelWater)
-9. Sunset: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+9. Sunset: [Witch Gems](https://marketplace.visualstudio.com/items?itemName=CrystalTokyo.witch-gems)
 10. Twilight: [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
 11. Midnight: [Pastel Pink Theme](https://marketplace.visualstudio.com/items?itemName=skrewbar.pastel-pink-theme) and [Japanese City Pop](https://marketplace.visualstudio.com/items?itemName=wu-chinese.japanese-city-pop)
 12. Witching Hour: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) and [1984](https://marketplace.visualstudio.com/items/?itemName=juanmnl.vscode-theme-1984)

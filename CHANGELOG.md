@@ -1,6 +1,6 @@
 ## Changelog
 ### V1.8.0
-- Changed Midnight version syntax colors
+- Updated AI chat and graph colors
 
 ### V1.7.0 - V1.7.1
 - Added Sunrise version
