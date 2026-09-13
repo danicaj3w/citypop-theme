@@ -1332,8 +1332,7 @@
 				"variable",
 				"meta.definition.variable.name",
 				"support.variable",
-				"entity.name.variable",
-				"constant.other.placeholder"
+				"entity.name.variable"
 			],
 			"settings": {
 				"foreground": "#9CDCFE"
@@ -1450,6 +1449,12 @@
 		},
 		{
 			"scope": "string",
+			"settings": {
+				"foreground": "#8580D6"
+			}
+		},
+		{
+			"scope": "constant.other.placeholder",
 			"settings": {
 				"foreground": "#8580D6"
 			}
