@@ -30,6 +30,7 @@
 		"chat.avatarForeground": "#6978ee",
 		"chat.editedFileForeground": "#e2c08d",
 		"chat.requestBackground": "#ef74af",
+		"chat.requestBubbleBackground": "#5264ee4b",
 		"chat.requestBorder": "#ef74af",
 		"chat.slashCommandBackground": "#ef74af52",
 		"chat.slashCommandForeground": "#ef74af",
@@ -935,7 +936,7 @@
 		{
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#646695"
+				"foreground": "#B37AEB"
 			}
 		},
 		{
@@ -1044,12 +1045,6 @@
 			}
 		},
 		{
-			"scope": "markup.inline.raw",
-			"settings": {
-				"foreground": "#CE9178"
-			}
-		},
-		{
 			"scope": "punctuation.definition.tag",
 			"settings": {
 				"foreground": "#808080"
@@ -1133,13 +1128,20 @@
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#D16969"
+				"foreground": "#B37AEB"
 			}
 		},
 		{
 			"scope": [
 				"punctuation.definition.template-expression.begin",
-				"punctuation.definition.template-expression.end",
+				"punctuation.definition.template-expression.end"
+			],
+			"settings": {
+				"foreground": "#edbb98"
+			}
+		},
+		{
+			"scope": [
 				"punctuation.section.embedded"
 			],
 			"settings": {
@@ -1385,7 +1387,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#edbb98"
 			}
 		},
 		{
@@ -1396,7 +1398,7 @@
 				"constant.character.set.regexp"
 			],
 			"settings": {
-				"foreground": "#D16969"
+				"foreground": "#B37AEB"
 			}
 		},
 		{
@@ -1405,13 +1407,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#B37AEB"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#B37AEB"
 			}
 		},
 		{
@@ -1455,6 +1457,12 @@
 		},
 		{
 			"scope": "constant.other.placeholder",
+			"settings": {
+				"foreground": "#B37AEB"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
 			"settings": {
 				"foreground": "#B37AEB"
 			}
@@ -1674,7 +1682,8 @@
 				"markup.italic",
 				"punctuation.definition.list.begin.markdown",
 				"variable.language",
-				"keyword.operator.expression"
+				"keyword.operator.expression",
+				"keyword.operator.new"
 			],
 			"settings": {
 				"foreground": "#86A4FF"

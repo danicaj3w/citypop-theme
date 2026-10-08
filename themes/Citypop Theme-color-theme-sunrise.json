@@ -31,6 +31,7 @@
 		"chat.avatarForeground": "#ffb1ea",
 		"chat.editedFileForeground": "#e2c08d",
 		"chat.requestBackground": "#363856",
+		"chat.requestBubbleBackground": "#45496d",
 		"chat.requestBorder": "#464169",
 		"chat.slashCommandBackground": "#ffb1ea5c",
 		"chat.slashCommandForeground": "#f6e68c",
@@ -935,7 +936,7 @@
 		{
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#646695"
+				"foreground": "#C5A3FF"
 			}
 		},
 		{
@@ -1044,12 +1045,6 @@
 			}
 		},
 		{
-			"scope": "markup.inline.raw",
-			"settings": {
-				"foreground": "#CE9178"
-			}
-		},
-		{
 			"scope": "punctuation.definition.tag",
 			"settings": {
 				"foreground": "#808080"
@@ -1133,13 +1128,20 @@
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#D16969"
+				"foreground": "#C5A3FF"
 			}
 		},
 		{
 			"scope": [
 				"punctuation.definition.template-expression.begin",
-				"punctuation.definition.template-expression.end",
+				"punctuation.definition.template-expression.end"
+			],
+			"settings": {
+				"foreground": "#EEF9F8"
+			}
+		},
+		{
+			"scope": [
 				"punctuation.section.embedded"
 			],
 			"settings": {
@@ -1385,7 +1387,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#e8b45b"
 			}
 		},
 		{
@@ -1396,7 +1398,7 @@
 				"constant.character.set.regexp"
 			],
 			"settings": {
-				"foreground": "#D16969"
+				"foreground": "#C5A3FF"
 			}
 		},
 		{
@@ -1405,13 +1407,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#C5A3FF"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#C5A3FF"
 			}
 		},
 		{
@@ -1455,6 +1457,12 @@
 		},
 		{
 			"scope": "constant.other.placeholder",
+			"settings": {
+				"foreground": "#C5A3FF"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
 			"settings": {
 				"foreground": "#C5A3FF"
 			}
@@ -1557,6 +1565,7 @@
 				"keyword.other.unit",
 				"keyword.other.directive.using",
 				"keyword.operator.new.cpp",
+				"keyword.operator.new",
 				"entity.name.function.preprocessor.cpp",
 				"entity.other.inherited-class",
 				"keyword",

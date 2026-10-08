@@ -30,7 +30,8 @@
 		"chat.avatarForeground": "#cbbe8d",
 		"chat.editedFileForeground": "#e2c08d",
 		"chat.requestBackground": "#1b1d36",
-		"chat.requestBorder": "#525cc3",
+		"chat.requestBubbleBackground": "#2d335d",
+		"chat.requestBorder": "#8d9cff",
 		"chat.slashCommandBackground": "#cbbe8d4a",
 		"chat.slashCommandForeground": "#cbbe8d",
 		"checkbox.background": "#cbbe8d",
@@ -937,7 +938,7 @@
 		{
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#646695"
+				"foreground": "#EABC80"
 			}
 		},
 		{
@@ -1046,12 +1047,6 @@
 			}
 		},
 		{
-			"scope": "markup.inline.raw",
-			"settings": {
-				"foreground": "#CE9178"
-			}
-		},
-		{
 			"scope": "punctuation.definition.tag",
 			"settings": {
 				"foreground": "#808080"
@@ -1135,13 +1130,20 @@
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#D16969"
+				"foreground": "#EABC80"
 			}
 		},
 		{
 			"scope": [
 				"punctuation.definition.template-expression.begin",
-				"punctuation.definition.template-expression.end",
+				"punctuation.definition.template-expression.end"
+			],
+			"settings": {
+				"foreground": "#f4cc3e"
+			}
+		},
+		{
+			"scope": [
 				"punctuation.section.embedded"
 			],
 			"settings": {
@@ -1387,7 +1389,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#f4cc3e"
 			}
 		},
 		{
@@ -1398,7 +1400,7 @@
 				"constant.character.set.regexp"
 			],
 			"settings": {
-				"foreground": "#D16969"
+				"foreground": "#EABC80"
 			}
 		},
 		{
@@ -1407,13 +1409,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#EABC80"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#EABC80"
 			}
 		},
 		{
@@ -1457,6 +1459,12 @@
 		},
 		{
 			"scope": "constant.other.placeholder",
+			"settings": {
+				"foreground": "#EABC80"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
 			"settings": {
 				"foreground": "#EABC80"
 			}

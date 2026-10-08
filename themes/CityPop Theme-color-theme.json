@@ -33,6 +33,7 @@
 		"chat.requestBorder": "#4d5cba",
 		"chat.slashCommandBackground": "#e96b9931",
 		"chat.slashCommandForeground": "#d88ea9",
+		"chat.requestBubbleBackground": "#4555a439",
 		"checkbox.background": "#d27496",
 		"checkbox.border": "#192965",
 		"checkbox.foreground": "#192965",
@@ -935,7 +936,7 @@
 		{
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#646695"
+				"foreground": "#D89DDF"
 			}
 		},
 		{
@@ -1044,12 +1045,6 @@
 			}
 		},
 		{
-			"scope": "markup.inline.raw",
-			"settings": {
-				"foreground": "#CE9178"
-			}
-		},
-		{
 			"scope": "punctuation.definition.tag",
 			"settings": {
 				"foreground": "#808080"
@@ -1133,13 +1128,20 @@
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#D16969"
+				"foreground": "#D89DDF"
 			}
 		},
 		{
 			"scope": [
 				"punctuation.definition.template-expression.begin",
-				"punctuation.definition.template-expression.end",
+				"punctuation.definition.template-expression.end"
+			],
+			"settings": {
+				"foreground": "#e78ba8"
+			}
+		},
+		{
+			"scope": [
 				"punctuation.section.embedded"
 			],
 			"settings": {
@@ -1385,7 +1387,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#e78ba8"
 			}
 		},
 		{
@@ -1396,7 +1398,7 @@
 				"constant.character.set.regexp"
 			],
 			"settings": {
-				"foreground": "#D16969"
+				"foreground": "#D89DDF"
 			}
 		},
 		{
@@ -1405,13 +1407,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#D89DDF"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#D89DDF"
 			}
 		},
 		{
@@ -1455,6 +1457,12 @@
 		},
 		{
 			"scope": "constant.other.placeholder",
+			"settings": {
+				"foreground": "#D89DDF"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
 			"settings": {
 				"foreground": "#D89DDF"
 			}
@@ -1649,8 +1657,6 @@
 				"support.constant.property-value.css",
 				"support.constant.color.w3c-standard-color-name.css",
 				"support.constant.font-name.css",
-				"variable.other.constant.object.js",
-				"variable.other.object.property.js",
 				"support.variable.property.js",
 				"entity.other.attribute-name.js",
 				"variable",
@@ -1701,6 +1707,8 @@
 				"variable.other.object.js",
 				"variable.other.constant.property.js",
 				"variable.other.constant.js",
+				"variable.other.constant.object.js",
+				"variable.other.object.property.js",
 				"storage.modifier.async.js",
 				"variable.other.readwrite",
 				"variable.parameter",
